@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FoodProject.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="FoodProjectDlg.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CSIGNUP.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Choice.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Pay.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Option1.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Option2.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Option3.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CREVISE.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CBILL.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CADMIN.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="FoodProject.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FoodProjectDlg.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CSIGNUP.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Choice.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Pay.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Option1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Option2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Option3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CREVISE.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CBILL.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CADMIN.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="FoodProject.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\FoodProject.rc2">
+      <Filter>리소스 파일</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\FoodProject.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\[크기변환][크기변환][포맷변환]고구마.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\[크기변환][크기변환][포맷변환]불고기.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\[크기변환][크기변환][포맷변환]콤비네이션.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\[크기변환][크기변환]페퍼로니bmp.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\[크기변환]간장.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\[크기변환]닭강정.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\[크기변환]양념.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\[크기변환]후라이드.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\[크기변환][포맷변환]볶음밥.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\[크기변환][포맷변환]짜장.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\[크기변환][포맷변환]짬뽕.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\[크기변환][포맷변환]탕수육.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\[크기변환][포맷변환]보쌈.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\[크기변환][포맷변환]불족발.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\[크기변환][포맷변환]양념족발.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\[크기변환][포맷변환]족발.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\[크기변환][포맷변환]카드.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\[크기변환][포맷변환]현금.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\[크기변환][포맷변환]뼈.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\[크기변환][포맷변환]순살.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="[크기변환][크기변환][포맷변환]고구마.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="[크기변환][크기변환][포맷변환]불고기.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="[크기변환][크기변환][포맷변환]콤비네이션.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="[크기변환][크기변환]페퍼로니bmp.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="[크기변환]간장.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="[크기변환]닭강정.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="[크기변환]양념.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="[크기변환]후라이드.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="[크기변환][포맷변환]볶음밥.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="[크기변환][포맷변환]짜장.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="[크기변환][포맷변환]짬뽕.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="[크기변환][포맷변환]탕수육.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="[크기변환][포맷변환]보쌈.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="[크기변환][포맷변환]불족발.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="[크기변환][포맷변환]양념족발.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="[크기변환][포맷변환]족발.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="[크기변환][포맷변환]카드.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="[크기변환][포맷변환]현금.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="[크기변환][포맷변환]뼈.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="[크기변환][포맷변환]순살.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Images\[크기변환][크기변환][포맷변환]고구마.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Images\[크기변환][크기변환][포맷변환]불고기.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Images\[크기변환][크기변환][포맷변환]콤비네이션.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Images\[크기변환][크기변환]페퍼로니bmp.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Images\[크기변환]간장.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Images\[크기변환]닭강정.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Images\[크기변환]양념.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Images\[크기변환]후라이드.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Images\[크기변환][포맷변환]볶음밥.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Images\[크기변환][포맷변환]짜장.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Images\[크기변환][포맷변환]짬뽕.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Images\[크기변환][포맷변환]탕수육.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Images\[크기변환][포맷변환]보쌈.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Images\[크기변환][포맷변환]불족발.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Images\[크기변환][포맷변환]양념족발.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Images\[크기변환][포맷변환]족발.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Images\[크기변환][포맷변환]카드.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Images\[크기변환][포맷변환]현금.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Images\[크기변환][포맷변환]뼈.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Images\[크기변환][포맷변환]순살.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
